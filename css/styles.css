@@ -1,0 +1,50 @@
+body {
+  font-size: 1.1em;
+  background-color: #c0c0c0;
+  border: 5px solid #d3d3d3;
+}
+
+body.index {
+  background-color: #222;
+  color: #c0c0c0;
+}
+
+table, td {
+  border: 1px solid #c0c0c0;
+}
+
+/* Links */
+.local-link {
+  color: #5050d6;
+  text-decoration: none;
+}
+
+.remote-link {
+  color: #2020ff;
+  text-decoration: underline;
+}
+
+/* Background colors */
+.bg-red {
+  background-color: red;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.bg-blue {
+  background-color: blue;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.bg-purple {
+  background-color: purple;
+}
+
+.bg-turquoise {
+  background-color: turquoise;
+}
